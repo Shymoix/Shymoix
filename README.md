@@ -1,4 +1,4 @@
-### Merhaba, ben (Faruk)(https://discord.gg/qCdf85YtRB 
+### Merhaba, ben [Faruk][https://discord.gg/qCdf85YtRB]
 ) 👋
 <hr>
 <!--
