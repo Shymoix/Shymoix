@@ -1,4 +1,5 @@
-### Hi there 👋
+### Merhaba, ben (Faruk)(https://discord.gg/qCdf85YtRB 
+) 👋
 <hr>
 <!--
 **Shymoix/Shymoix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
