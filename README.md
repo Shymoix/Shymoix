@@ -1,12 +1,12 @@
 ### Merhaba, ben [Faruk](https://discord.gg/qCdf85YtRB) 👋
-<hr/>
+---
 
 Yaklaşık 3.5 yıldır Discord Bot geliştiriciliği yapıyorum. 
 <br>
 Public, Roleplay vb sunuculara özel Discord botu satışı yapıyorum. Her sunucu için tüm her şeyi en baştan kendim yapıyorum. Para karşılığı sizin için geliştirdiğim bir sistemi başka hiç bir sunucuda göremezsiniz.
 
 ### Bana ulaşmak için;
-<hr/>
+---
 [Discord](https://discord.gg/qCdf85YtRB)
 <br>
 [Instagram](https://www.instagram.com/faaruukq)
