@@ -11,7 +11,7 @@ Public, Roleplay vb sunuculara özel Discord botu satışı yapıyorum. Her sunu
 <br>
 [Instagram](https://www.instagram.com/faaruukq)
 
-###Geliştiriciliğini Yaptığım Discord Sunucuları:
+### Geliştiriciliğini Yaptığım Discord Sunucuları:
 ---
 - [Shymoix](https://discord.gg/qCdf85YtRB)
 - [AOT Roleplay](https://discord.gg/PT5kwr5d77)
