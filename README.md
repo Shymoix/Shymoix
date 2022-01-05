@@ -2,7 +2,7 @@
 ---
 
 Yaklaşık 3.5 yıldır Discord Bot geliştiriciliği yapıyorum. 
-<br>
+<br> <br>
 Public, Roleplay vb sunuculara özel Discord botu satışı yapıyorum. Her sunucu için tüm her şeyi en baştan kendim yapıyorum. Para karşılığı sizin için geliştirdiğim bir sistemi başka hiç bir sunucuda göremezsiniz.
 
 ### Bana ulaşmak için;
