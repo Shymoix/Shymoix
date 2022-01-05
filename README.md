@@ -8,7 +8,7 @@ Public, Roleplay vb sunuculara özel Discord botu satışı yapıyorum. Her sunu
 <hr>
 [Discord](https://discord.gg/qCdf85YtRB)
 <br>
-[Instagram](https://www.instagram.com/faaruukq/)
+[Instagram](https://www.instagram.com/faaruukq)
 
 
 <!--
