@@ -1,20 +1,13 @@
-### Merhaba, ben [Faruk](https://discord.gg/qCdf85YtRB) 👋
+### Hi, I'm [Faruk](https://discord.gg/qCdf85YtRB) 👋
 ---
 
-Yaklaşık 3.5 yıldır Discord Bot geliştiriciliği yapıyorum. 
-<br> <br>
-Public, Roleplay vb sunuculara özel Discord botu satışı yapıyorum. Her sunucu için tüm her şeyi en baştan kendim yapıyorum. Para karşılığı sizin için geliştirdiğim bir sistemi başka hiç bir sunucuda göremezsiniz.
+I’m interested in Web programming
 
-### Bana ulaşmak için;
+### Contacts;
 ---
 [Discord](https://discord.gg/qCdf85YtRB)
 <br>
 [Instagram](https://www.instagram.com/faaruukq)
-
-### Geliştiriciliğini Yaptığım Discord Sunucuları:
----
-- [Shymoix](https://discord.gg/qCdf85YtRB)
-- [AOT Roleplay](https://discord.gg/PT5kwr5d77)
 
 <!--
 **Shymoix/Shymoix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
