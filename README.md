@@ -5,9 +5,9 @@ I’m interested in Web programming
 
 ### Contacts;
 ---
-[Discord](https://discord.gg/qCdf85YtRB)
+[Linkedin](https://www.linkedin.com/in/mehmet-faruk-kolip-6a664924b/)
 <br>
-[Instagram](https://www.instagram.com/faaruukq)
+[Instagram](https://www.instagram.com/ifaaruuk)
 ### 🛠️ Languages and Tools :
 ---
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
