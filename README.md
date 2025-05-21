@@ -1,7 +1,8 @@
-### Hi, I'm [Faruk](https://discord.gg/qCdf85YtRB) 👋
+### Hi, I'm Faruk 👋
 ---
 
-I’m interested in Web programming
+- I’m interested in Web programming
+- 
 
 ### Contacts;
 ---
@@ -24,6 +25,10 @@ I’m interested in Web programming
 <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-plain.svg" title="Discord.js" alt="Discord.js" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJs" alt="VueJs" width="40" height="40"/>&nbsp;
+
+---
+
+[![İstatistik](https://github-readme-stats.vercel.app/api?shymoix=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
