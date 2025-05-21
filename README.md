@@ -28,8 +28,7 @@
 
 ---
 
-[İstatistik](https://github-readme-stats.vercel.app/api?username=shymoix&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shymoix&show_icons=true&theme=radical)
 
 
 <!--
