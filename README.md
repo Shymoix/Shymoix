@@ -8,13 +8,13 @@
 - 💡 I like making projects that feel like something people would actually want to use.
 - 🧠 Sometimes I build Discord bots just because I can. Sometimes they even work.
 
-### Contacts;
 ---
+### Contacts
 [Linkedin](https://www.linkedin.com/in/mehmet-faruk-kolip-6a664924b/)
 <br>
 [Instagram](https://www.instagram.com/ifaaruuk)
-### 🛠️ Languages and Tools :
 ---
+### 🛠️ Languages and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
