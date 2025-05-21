@@ -1,8 +1,12 @@
 ### Hi, I'm Faruk 👋
 ---
 
-- I’m interested in Web programming
-- 
+### 🚀 About Me
+
+- 🎓 I'm a Computer Engineering student
+- 💻 I build full-stack web apps, Discord bots, and occasionally lose sleep over backend optimization (hello Redis 👋).
+- 💡 I like making projects that feel like something people would actually want to use.
+- 🧠 Sometimes I build Discord bots just because I can. Sometimes they even work.
 
 ### Contacts;
 ---
