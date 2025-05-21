@@ -28,7 +28,8 @@
 
 ---
 
-[![İstatistik](https://github-readme-stats.vercel.app/api?shymoix=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[İstatistik](https://github-readme-stats.vercel.app/api?username=shymoix&show_icons=true&theme=radical)
+
 
 
 <!--
